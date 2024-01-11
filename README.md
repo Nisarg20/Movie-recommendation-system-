@@ -176,14 +176,18 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
+## Team Members 🤝
+
+- **[Nisarg Doshi](https://github.com/Nisarg20)**: Developer 1
+- **[Suraj Mishra](https://github.com/sm5689)**: Developer 2
 
 <!-- CONTACT -->
-## Contact
+<!--## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+-->
 
 
 
